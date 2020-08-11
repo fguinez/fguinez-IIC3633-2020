@@ -14,8 +14,8 @@ Repositorio destinado a subir las lecturas semanales del curso IIC3633 - Sistema
   - Se pierde todo puntaje después
 
 ### 3. Rúbrica
-1 No lo escribió
-3 No escribió un comentario
-5 No está bien desarrollado
-7 Está bien desarrollado
-8 Conecta el tema del paper con otros temas de forma interesante
+* `1` No lo escribió
+* `3` No escribió un comentario
+* `5` No está bien desarrollado
+* `7` Está bien desarrollado
+* `8` Conecta el tema del paper con otros temas de forma interesante
