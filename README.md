@@ -13,9 +13,19 @@ Repositorio destinado a subir las lecturas semanales del curso IIC3633 - Sistema
   - Viernes: máximo 3
   - Se pierde todo puntaje después
 
-### 3. Rúbrica
+## Rúbrica
 * `1` No lo escribió
 * `3` No escribió un comentario
 * `5` No está bien desarrollado
 * `7` Está bien desarrollado
 * `8` Conecta el tema del paper con otros temas de forma interesante
+
+## ¿Qué es un comentario?
+- Una opinión o crítica (no necesariamente negativa) del contenido del artículo
+- NO es un resumen
+- No es necesario que analicen todos los temas que toca el paper
+
+### Ejemplo de buena estructura de comentario:
+1. Un mini resumen del tema del paper, como contexto
+2. Comentario de aspectos interesantes
+3. Crítica a lo que consideren que no fue adecuado
