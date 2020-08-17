@@ -1,4 +1,4 @@
-# Comentario: _Netflix Update: Try This at Home_
+# _Comentario:_ Netflix Update: Try This at Home
 
 El texto cuenta en primera persona la experiencia de uno de los participantes del [_Netflix Prize_](netflixprize.com) que obtuvo uno de los primeros lugares en los inicios de la competencia. En específico, Simon Funk nos explica los principales aspectos de su programa y algunas de las iteraciones que realizó para llegar a ellos.
 

@@ -1,4 +1,4 @@
-# Comentario: Item-based collaborative filtering recommendation algorithms
+# _Comentario:_ Item-based collaborative filtering recommendation algorithms
 
 Este paper plantea dos desafíos para el Filtrado Colaborativo. Por un lado, **mejorar la escalabilidad** de los algoritmos de filtrado colaborativo; y por otro, **mejorar la calidad** de las recomendaciones. La hipótesis de la investigación es que un filtrado colaborativo basado en items (_item-based_) daría mejores resultados que uno basado en usuarios (_user-based_). Los resultados mostraron que el filtrado _item-based_ aporta una mejora consistente por sobre el _user-based_, sin embargo, no fue una mejora significativamente grande.
 
