@@ -1,7 +1,7 @@
 # _Comentario:_ Collaborative Filtering for Implicit Feedback Datasets
 
 
-Este paper explica las principales características de la retroalimentación implícita, sus diferencias con la retroalimentación explícita y el cómo aprovechar esta información para la creación de sistemas recomendadores.
+Este paper explica las principales características de la retroalimentación implícita, sus diferencias con la retroalimentación explícita y el cómo aprovechar esta información para la creación de sistemas recomendadores. A modo general, el documento intenta ir más allá del diseño y análisis de algoritmos, abordando suposiciones recurrentes en las Sistemas Recomendadores sobre el sentido de los datos y el comportamiento humano.
 
 El listado de características particulares de la retroalimentación implícita presente en el texto es acertado y completo, esto lo vuelve útil para plantear cualquier problema de retroalimentación implícita independiente de su contexto.
 
