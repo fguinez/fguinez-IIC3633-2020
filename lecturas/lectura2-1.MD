@@ -3,7 +3,7 @@
 
 Este paper explica las principales características de la retroalimentación implícita, sus diferencias con la retroalimentación explícita y el cómo aprovechar esta información para la creación de sistemas recomendadores. A modo general, el documento intenta ir más allá del diseño y análisis de algoritmos, abordando suposiciones recurrentes en las Sistemas Recomendadores sobre el sentido de los datos y el comportamiento humano.
 
-El listado de características particulares de la retroalimentación implícita presente en el texto es acertado y completo, esto lo vuelve útil para plantear cualquier problema de retroalimentación implícita independiente de su contexto.
+El listado de características particulares de la retroalimentación implícita presente en el texto es acertado y completo, esto lo vuelve útil para plantear cualquier problema de retroalimentación implícita independiente de su contexto. Es posible notar que características como la gran cantidad de ruido y la gran abundancia de los datos implícitos han sido aceptadas por la comunidad científica como intrínsecas a este tipo de retroalimentación (Jawaheer, Szomszor y Kostkova, 2010)
 
 Si bien las suposiciones respecto al comportamiento de los usuarios parecen tener sentido (por ejemplo, que viendo varios programas seguidos en un mismo canal decrece el interés de un programa a otro), habría sido positivo justificar esto en estudios sociológicos y/o psicológicos. En general la retroalimentación implícita necesita mucho más entendimiento del comportamiento humano que la retroalimentación explícita, por lo mismo en papers de este tipo se vuelve más util el referenciar a las ciencias sociales. Sin embargo, todas las referencias de este documento son del mundo de los Sistemas Recomendadores.
 
@@ -30,4 +30,6 @@ Sin embargo, considerando el reajuste propuesto, en caso de tener `t = 3` los pe
 
 # Referencias
 
-Morgan, M., Shanahan, J. y Signorielli, N. (2009). Growing up with television: Cultivation processes en _Media effects: Advances in Theory_ (pp. 50-65). Routledge.
+Jawaheer, G., Szomszor, M. y Kostkova, P. (2010). Comparison of Implicit and Explicit Feedback from an Online Music Recommendation Service. En _HetRec '10: Proceedings of the 1st International Workshop on Information Heterogeneity and Fusion in Recommender Systems_ (pp. 47-51). ACM. doi: [10.1145/1869446.1869453](doi.org/10.1145/1869446.1869453)
+
+Morgan, M., Shanahan, J. y Signorielli, N. (2009). Growing up with television: Cultivation processes. En _Media effects: Advances in Theory_ (pp. 50-65). Routledge.
