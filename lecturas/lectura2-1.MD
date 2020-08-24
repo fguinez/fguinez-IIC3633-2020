@@ -11,7 +11,7 @@ Retomando el caso sobre el decrecimiento del interés en un programa representad
 
 ![w(t)=eˆ(−(at−b))/(1+e−(at−b))](https://latex.codecogs.com/svg.latex?w(t)=\frac{e^{-(at-b)}}{1+e^{-(at-b)}})
 
-Donde ![w](https://latex.codecogs.com/svg.latex?w) es un ponderador de ![r_ui](https://latex.codecogs.com/svg.latex?r_{ui}) y ![t](https://latex.codecogs.com/svg.latex?t) representa al t-ésimo programa visto en un mismo canal.
+*Donde ![w](https://latex.codecogs.com/svg.latex?w) es un ponderador de ![r_ui](https://latex.codecogs.com/svg.latex?r_{ui}) y ![t](https://latex.codecogs.com/svg.latex?t) representa al t-ésimo programa visto en un mismo canal.*
 
 Una posible mejora, podría ser el reajustar los valores previos dependiendo del valor de `t`. En específico, considerando los valores ![a=2](https://latex.codecogs.com/svg.latex?a=2) y ![b=6](https://latex.codecogs.com/svg.latex?b=6) encontrados en la experimentación, sin el reajuste propuesto tendríamos los siguientes ponderadores para diferentes valores de ![t](https://latex.codecogs.com/svg.latex?t):
 | t |  w   |
