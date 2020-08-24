@@ -11,7 +11,7 @@ Todas estas referencias a modelos ya conocidos, permite comparar _BPR-Opt_ const
 
 Por lo tanto, cambiar el contexto puede hacer variar el algoritmo más óptimo. Este es el caso mostrado en la Figura 6, donde _BPR-kNN_ da mejores resultados para los datos de _Rossmann_, pero _BPR-MF_ da mejores resultados para _Netflix_. Con ejemplos como este se ve resaltada la necesidad de combinar diversas técnicas de filtrado colaborativo para maximizar el rendimiento (Adomavicius y Tuzhilin, 2005).
 
-![Figura 6](/Users/fguinez/Desktop/figura6.png)
+![Figura 6](https://i.ibb.co/yRFqpky/figura6.png)
 
 La introducción de aleatoriedad dentro del algoritmo, mencionada en la sección 4.2: _BPR Learning Algorithm_, fue algo novedoso al considerar cuales eran los Sistemas Recomendadores más populares en ese entonces. El texto mostró cómo esto optimiza los algoritmos en muchos casos, lo cual podemos reafirmas por la gran candidad de algoritmos aleatorizados que se utilizan en la actualidad.
 
