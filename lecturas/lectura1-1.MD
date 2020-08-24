@@ -19,4 +19,4 @@ Lemire, D. y Maclachlan, A. (2007). Slope One Predictors for Online Rating-Based
 
 Linden, G., Smith B. y York, J. (2003). Amazon.com recommendations: item-to-item collaborative filtering, in _IEEE Internet Computing_, vol. 7, no. 1, pp. 76-80, Enero-Febrero doi: [10.1109/MIC.2003.1167344](doi.org/10.1109/MIC.2003.1167344).
 
-Raghuwanshi S., Pateriya R. (2019). Collaborative Filtering Techniques in Recommendation Systems. In: Shukla R., Agrawal J., Sharma S., Singh Tomer G. (eds) _Data, Engineering and Applications_. Springer, Singapore. doi: [10.1007/978-981-13-6347-4_2](doi.org/10.1007/978-981-13-6347-4_2)
+Raghuwanshi S. y Pateriya R. (2019). Collaborative Filtering Techniques in Recommendation Systems. In: Shukla R., Agrawal J., Sharma S., Singh Tomer G. (eds) _Data, Engineering and Applications_. Springer, Singapore. doi: [10.1007/978-981-13-6347-4_2](doi.org/10.1007/978-981-13-6347-4_2)
