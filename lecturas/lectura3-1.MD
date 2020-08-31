@@ -19,7 +19,7 @@ A pesar de lo anterior, los gráficos parecen correctos en cuanto a la represent
 
 En conclusión, el estudio presenta un cambio de perspectiva respecto a la forma de evaluar Sistemas Recomendadores que parece ser una mejora en cuanto a precisión. Las principales falencias del documento, son en cuanto a la forma de exposición de los datos.
 
-# Referencias
+## Referencias
 
 Shani, G. y Gunawardana. A. (2011). Evaluating Recommendation Systems en Ricci F., Rokach L., Shapira B., Kantor P. (eds) _Recommender Systems Handbook_. Boston: Springer. doi: [10.1007/978-0-387-85820-3_8](doi.org/10.1007/978-0-387-85820-3_8).
 

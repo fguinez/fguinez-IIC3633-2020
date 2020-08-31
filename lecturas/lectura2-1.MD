@@ -28,7 +28,7 @@ Una posible mejora, podría ser el **reajustar los valores previos dependiendo d
 Sin embargo, considerando el reajuste propuesto, en caso de tener `t = 3` los pesos a usar serían `0.98, 0.88, 0.5`, pero teniendo `t = 6` los pesos podrían reajustarse por algo del tipo `0.98, 0.5, 0.12, 0, 0, 0`. La suposición detrás de lo anterior, es que se hace más probable que un usuario tenga real interés en el tercer programa si solo vio 3 programas seguidos, versus si vio 6 o más programas. En otras palabras, se podría presuponer que en determinados casos **mientras más programas seguidos ve un usuario sin cambiar de canal, más probable es que no exista interés real en los programas** con `t > 1`.
 
 
-# Referencias
+## Referencias
 
 Jawaheer, G., Szomszor, M. y Kostkova, P. (2010). Comparison of Implicit and Explicit Feedback from an Online Music Recommendation Service. En _HetRec '10: Proceedings of the 1st International Workshop on Information Heterogeneity and Fusion in Recommender Systems_ (pp. 47-51). ACM. doi: [10.1145/1869446.1869453](doi.org/10.1145/1869446.1869453)
 

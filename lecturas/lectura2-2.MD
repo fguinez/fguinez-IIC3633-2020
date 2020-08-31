@@ -18,7 +18,7 @@ Con ejemplos como este se resaltan dos aspectos. Primero, la necesidad de combin
 Por último, la **introducción de aleatoriedad** dentro del algoritmo, mencionada en la sección 4.2: _BPR Learning Algorithm_, fue algo novedoso al considerar que esta carcterística no estaba presente  en los Sistemas Recomendadores más populares de ese entonces. El texto mostró cómo esto optimiza los algoritmos en muchos casos, lo cual podemos reafirmar por la gran candidad de algoritmos aleatorizados que se utilizan en la actualidad.
 
 
-# Referencias
+## Referencias
 
 Adomavicius, G. y Tuzhilin, A. (2005). Toward the next generation of recommender systems: a survey of the state-of-the-art and possible extensions. En _IEEE Transactions on Knowledge And Data Engineering_, vol. 17, no. 6, pp. 734-749. doi: [10.1109/TKDE.2005.99](doi.org/10.1109/TKDE.2005.99)
 

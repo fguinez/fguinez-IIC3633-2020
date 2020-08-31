@@ -6,6 +6,6 @@ El texto no presenta una idea o algoritmo nuevo en concreto, pero sirve como ant
 
 Algo importante a resaltar, es que no se espera que un algoritmo sea el mejor cumpliendo todas las propiedades. Sino que, al momento de plantear el problema, una de las preguntas a responder es qué propiedades priorizar dado el contexto.
 
-# Referencias
+## Referencias
 
 Herlocker, J., Konstan, J., Terveen, L. y Riedl, J. (2004). Evaluating collaborative filtering recommender systems. ACM Trans. Inf. Syst. 22, 1 (Enero 2004), 5–53. doi: [10.1145/963770.963772](doi.org/10.1145/963770.963772)
