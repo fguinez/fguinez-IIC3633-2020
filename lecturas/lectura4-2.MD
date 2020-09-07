@@ -1,0 +1,12 @@
+# _Comentario:_ Document clustering based on non-negative matrix factorization
+
+Este paper expone una nueva metodología para agrupar documentos basada en factorización no negativa de la matriz de documentos. Esto conlleva que se determine un tema base para cada fragmento de un documento y que el conjunto de temas determinen el o los temas del documento completo, esto permite luego clasificar varios documentos según sus resultados individuales. La experimentación presentada muestra una aparente mejora frente a anteriores formas de _clustering_ en cuanto a lo fácil que resulta clasificar y a la precisión de la clasificación obtenida.
+
+El texto hace un muy buen uso de los trabajos relacionados explicados en la sección 2, dado que **rescata elementos de todos ellos** para lograr el razonamiento que origina el método propuesto. Ejemplo de lo anterior es que se considere cada documento como una mezcla aditiva (nunca sustractiva) de sus subtemas, que se asuma que los temas no son completamente independientes entre sí y que, en línea con lo anterior, también se asuma que los ejes que representan los temas no son necesariamente ortogonales.
+
+Sin embargo, al estar este estudio tan centrado en _clustering_ de textos, resulta negativo que no se deje del todo claro que las condiciones expuestas no son necesariamente generalizables a cualquier item a clasificar. Una muestra de lo anterior se puede apreciar en [Orthogonal nonnegative matrix t-factorizations for clustering](https://dl.acm.org/doi/abs/10.1145/1150402.1150420) de Ding, Li, Peng y Park (2006), donde estudian casos donde la **ortogonalidad**  da buenos resultados al realizar factorización no negativa en contextos diferentes a los textos.
+
+## Referencias
+
+Ding, C., Li, T., Peng, W. y Park, H. (2006). Orthogonal nonnegative matrix t-factorizations for clustering. In _Proceedings of the 12th ACM SIGKDD international conference on Knowledge discovery and data mining (KDD '06)_. Association for Computing Machinery. ACM: New York, NY, USA, 126–135. doi: [10.1145/1150402.1150420](https://doi.org/10.1145/1150402.1150420)
+
