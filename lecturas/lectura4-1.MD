@@ -8,6 +8,8 @@ Al analizar este informe desde la actualidad, es facil notar que los diferentes 
 
 No obstante, este mismo acierto produjo que el contenido del texto quedara desactualizado rápidamente, siendo realmente incompleto con ojos actuales. Muestra de ello es que ya en el año 2011 estudios recopilatorios similares de Sistemas recomendadores basados en contenido tienen diferencias no menores en su contenido, siendo este el caso de [Content-based Recommender Systems: State of the Art and Trends](https://www.semanticscholar.org/paper/Content-based-Recommender-Systems%3A-State-of-the-Art-Lops-Degemmis/ffdefb57372320d25f7e6a692cc7aee9b9da3354?p2df) de Lops, Degemmis y Semeraro (2011), donde detallan un _estado-del-arte_ bastante diferente al de 2007.
 
+En síntesis, el texto es un buen resumen de las características de los algoritmos de recomendación basados en contenido hasta el año 2007, pero resulta desactualizado si se quiere conocer sobre esta temática en la actualidad. Esto no es consecuencia de algún factor del texto en sí (dado que los autores cumplieron con retratar bien el _estado-del-arte_ del momento), sino con lo rápido que evolucionó esta área con el paso de los años.
+
 ## Referencias
 
 Lops, P., Degemmis, M., y Semeraro, G. (2011). Content-based Recommender Systems: State of the Art and Trends. En Ricci F., Rokach L., Shapira B., Kantor P. (eds) _Recommender Systems Handbook_. Boston: Springer. doi: [10.1007/978-0-387-85820-3_8](https://doi.org/10.1007/978-0-387-85820-3_8).
