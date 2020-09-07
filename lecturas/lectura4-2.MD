@@ -6,9 +6,12 @@ El texto hace un muy buen uso de los trabajos relacionados explicados en la secc
 
 Sin embargo, al estar este estudio tan centrado en _clustering_ de textos, resulta negativo que no se deje del todo claro que las condiciones expuestas no son necesariamente generalizables a cualquier item a clasificar. Una muestra de lo anterior se puede apreciar en [Orthogonal nonnegative matrix t-factorizations for clustering](https://dl.acm.org/doi/abs/10.1145/1150402.1150420) de Ding, Li, Peng y Park (2006), donde estudian casos donde la **ortogonalidad**  da buenos resultados al realizar factorización no negativa en contextos diferentes a los textos.
 
+Otro ejemplo donde se refleja la imposibilidad de generalizar los supuestos a ciegas es en [Convex and Semi-Nonnegative Matrix Factorizations](https://ieeexplore.ieee.org/abstract/document/4685898) de Ding, Li y Jordan (2010). En este estudio se resignifica el supuesto de no negatividad a algo menos restrictivo, dado que se sigue hablando de mezclar los ejes de manera aditiva pero se argumenta que esto no tiene porqué mantenerse en la matriz de datos, otorgando como resultado un rango aplicable más extenso.
+
 En síntesis, la investigación resalta por su buen razonamiento basado en las investigaciones ya existentes y por la clara y suficientemente detallada explicación de la metodología propuesta. El único aspecto negativo que se le recalca es que no demuestra ser suficientemente conciente de las limitaciones que puede tener la implementación de este método en contextos diferentes al estudiado (textos).
 
 ## Referencias
 
 Ding, C., Li, T., Peng, W. y Park, H. (2006). Orthogonal nonnegative matrix t-factorizations for clustering. In _Proceedings of the 12th ACM SIGKDD international conference on Knowledge discovery and data mining (KDD '06)_. Association for Computing Machinery. ACM: New York, NY, USA, 126–135. doi: [10.1145/1150402.1150420](https://doi.org/10.1145/1150402.1150420)
 
+Ding, C., Li, T. y Jordan, M. (2010). Convex and Semi-Nonnegative Matrix Factorizations. En _IEEE Transactions on Pattern Analysis and Machine Intelligence_, vol. 32, no. 1, pp. 45-55. doi: [10.1109/TPAMI.2008.277](https://doi.org/10.1109/TPAMI.2008.277)
