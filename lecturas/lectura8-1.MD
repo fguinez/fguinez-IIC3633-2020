@@ -1,0 +1,16 @@
+# _Comentario:_ See What You Want to See: Visual User-Driven Approach for Hybrid Recommendation
+
+Este paper cuestiona el carácter de _black box_ que tienen la gran mayoría de sistemas recomendadores y, por lo mismo, revalora la capacidad del usuario de tener control sobre lo que considera más importante para realizar una recomendación adecuada. Como solución concreta a lo anterior, se presenta una interfaz de recomendación híbrida impulsa por el usuario, lo cual quiere decir que el usuario final puede inspeccionar diferentes combinaciones de métodos de recomendación. Finalmente, se estudian los beneficios que puede traer esta propuesta por medio de estudios de campo.
+
+A pesar de ser un estudio con una temática muy concreta, se vislumbra un área de trabajo mucho más amplia: aumentar la transparencia de los Sistemas Recomendadores de cara al usuario. Producto de lo anterior, es que las citas actuales a este paper son de trabajos enfocados en el estudio del control y la transparencia que tienen los usuarios. Un ejemplo es [Understanding the effects of control and transparency in searching as learning](https://dl.acm.org/doi/abs/10.1145/3377325.3377524) (Di Sciascio, Veas, Barria-Pineda y Culley; 2020), donde recopilan los beneficios de las interfaces que otorgan mayor control y transparencia, entre las que se menciona el trabajo de Parra, Brusilovsky y Trattner como una alternativa para medir la experiencia de usuario en términos de su comportamiento al estar frente a interfaces transparentes.
+
+En cuanto al contexto en el que se prueba la interfaz, si tomamos la definición de _bias_ dada por _Baeza-Yates (2020) en [Bias in Search and Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3383313.3418435) se detecta un posible _statistical bias_ en la muestra de personas que probaron SetFusion, dado que ambos estudios fueron realizados en conferencias (CSCW 2013 y UMAP 2013). En estas conferencias, los asistentes tienen una mayor posibilidad de tener cercanía al área de la investigación en _RecSys_ que el público general. Este posible _bias_ trae consigo la incertidumbre de si un usuario común recibirá o aprovechará de la misma forma la interfaz presentada.
+
+
+
+
+## Referencias
+
+Di Sciascio, C., Veas, E., Barria-Pineda, J. y Culley, C. (2020). Understanding the effects of control and transparency in searching as learning. En _Proceedings of the 25th International Conference on Intelligent User Interfaces (IUI '20)_. Association for Computing Machinery, New York, NY, USA, 498–509. doi: [10.1145/3377325.3377524](https://doi.org/10.1145/3377325.3377524)
+
+Baeza-Yates, R. (2020). Bias in Search and Recommender Systems. En _Fourteenth ACM Conference on Recommender Systems (RecSys '20)_. Association for Computing Machinery, New York, NY, USA, 2. doi: [10.1145/3383313.3418435](https://doi.org/10.1145/3383313.3418435)
