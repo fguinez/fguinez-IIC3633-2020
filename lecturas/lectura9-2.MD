@@ -1,0 +1,17 @@
+# _Comentario:_ Carousel Personalization in Music Streaming Apps with Contextual Bandits
+
+Este paper estudia las características de las recomendaciones presentadas en formato de carrusel, para ello experimenta con los carruseles de música de Deezer. En base a lo anterior, se propone un modelo novedoso entrega beneficios para este tipo de recomendaciones por medio de la compreción de su funcionalidad en el mundo real.
+
+La utilización del modelo _Multi-armed bandits with multiple plays_ resulta muy adecuada y está bien justificada para el contexto planteado, dado que permite representar la situación a resolver considerando tanto los items a recomendar como las tarjetas en las que es más probable que cada usuario haga clic. Este enfoque resulta novedoso, porque comúnmente se asume que las tarjetas tendrán una importancia uniformente descendente (de arriba a abajo, o de izquierda a derecha) pero no tiene porqué ser siempre así; es más, presumiblemente algunos contextos de carruseles pueden ser buenos candidados para encontrar ordenamientos de importancia de tarjetas no triviales.
+
+No queda claro si en el contexto investigado se realizan recomendaciones con algún factor dinámico, lo cual es entendible por el marco de la investigación, sin embargo estudiar el modelo propuesto en conjunto con esta característica puede ser interesante como trabajo futuro. Nguyen y Lauw(2014) estudiaron _Dynamic Clustering_ en un contexto diferente de _Multi-Armed Bandits_ y Athani, Pathak y Khan (2014) experimentan con un sistema dinámico de recomendación de música; la fusión de estos 2 trabajos con el de Bendada, Salha y Bontempelli puede dar como resultado un trabajo futuro bastante beneficioso para las recomendaciones en carrusel.
+
+Llama la atención que no se haya realizado ninguna comparación con un recomendador de tipo _most popular_, comparar solo con _random_ resulta insuficiente para dar real perspectiva de la calidad de las recomendaciones. _Most popular_, aunque carece de personalización, es uno de los recomendadores más efectivos dada su aceptable tasa de acierto y su poco costo de entrenamiento, por lo que mostrar que un modelo supera a _most popular_ es una buena referencia de que efectivamente el modelo es fuerte. No ocurre lo mismo con _random_, dado que el avance actual de los sistemas recomendadores hace muy fácil el superar las recomendaciones otorgadas por este algoritmo.
+
+En conclusión, el paper presenta un modelo que aporta al _state-of-art_ e interpreta de forma certera el comportamiento de un carrusel de recomendaciones, dando interesantes conclusiones sobre cómo mejorar las recomendaciones en este contexto. La metodología de investigación es adecuada y en su mayoría completa, destacando el factor positivo de añadir tanto experimentos _offline_ como _online_; sin embargo, habría sido positivo añadir un segundo _baseline_ diferente a _random_, como puede ser _most popular_, para dar una mejor referencia de la calidad de la propuesta.
+
+## Referencias
+
+Nguyen, T. y Lauw., H. (2014). Dynamic Clustering of Contextual Multi-Armed Bandits. En _Proceedings of the 23rd ACM International Conference on Conference on Information and Knowledge Management (CIKM '14)_. Association for Computing Machinery, New York, NY, USA, 1959–1962. doi: [10.1145/2661829.2662063](https://doi.org/10.1145/2661829.2662063)
+
+Athani, M., Pathak, N. y Khan, A. (2014). Dynamic music recommender system using genetic algorithm. En _International Journal of Engineering and Advanced Technology (IJEAT)_, 3(4), 230-232. ISSN: 2249-8958
