@@ -1,5 +1,6 @@
-.DS_Store
-Icon
+Icon*
 repo.code-workspace
 *Icon
 *.DS_Store
+
+*.ipynb_checkpoints
